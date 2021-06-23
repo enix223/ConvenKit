@@ -1,0 +1,27 @@
+PODS:
+  - ConvenKit (0.1.0)
+  - Expecta (1.0.6)
+  - Specta (1.0.7)
+
+DEPENDENCIES:
+  - ConvenKit (from `../`)
+  - Expecta
+  - Specta
+
+SPEC REPOS:
+  trunk:
+    - Expecta
+    - Specta
+
+EXTERNAL SOURCES:
+  ConvenKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ConvenKit: 9eb70597c8717ca85726b924d2f66c46dee27b06
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
+
+PODFILE CHECKSUM: 3f642b4ea4a3efe04d8e52dbec27713b404fee3e
+
+COCOAPODS: 1.10.1

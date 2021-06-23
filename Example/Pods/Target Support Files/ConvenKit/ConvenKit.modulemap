@@ -1,0 +1,6 @@
+framework module ConvenKit {
+  umbrella header "ConvenKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
