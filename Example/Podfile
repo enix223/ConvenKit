@@ -1,0 +1,7 @@
+use_frameworks!
+target 'ConvenKit_Tests' do
+  pod 'ConvenKit', :path => '../'
+  
+  pod 'Specta'
+    pod 'Expecta'
+end
